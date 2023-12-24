@@ -35,7 +35,7 @@ Create a new CSS file, for example, styles.css.
 Link the CSS file to your HTML.
 # Step 4:
 ## CSS Styling:
-
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
